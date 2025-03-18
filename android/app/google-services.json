@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "797081624587",
+    "project_id": "chat-app-thyme",
+    "storage_bucket": "chat-app-thyme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797081624587:android:53925653945ac58f74a70e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797081624587-3k95a34as4fdsb8mit7lqb4h6b6pbbv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3QTtmURWPuPwMrYZfDLeL0LRgQcCFBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797081624587-3k95a34as4fdsb8mit7lqb4h6b6pbbv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797081624587-sj880c2ev3ab3qc7vrtaahic788aimlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
